@@ -111,3 +111,7 @@ If you use the LIAR2 dataset, please cite the original paper:
   publisher={IEEE}
 }
 ```
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
