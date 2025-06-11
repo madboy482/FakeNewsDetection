@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Model files and data (typically large and should be downloaded separately)
+*.pt
+*.pth
+*.bin
+*.safetensors
+models/
+
+# Log files
+logs/
+*.log
+
+# Data files (optional, but often large)
+# data/ # Uncomment if you don't want to include data
+
+# Environment variables
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Transformers cache
+.cache/
+cache/
+.transformers_cache/
