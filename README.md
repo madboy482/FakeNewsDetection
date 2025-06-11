@@ -45,7 +45,7 @@ liar2-fake-news/
 1. Clone the repository:
    ```
    git clone https://github.com/madboy482/FakeNewsDetection.git
-   cd liar2-fake-news
+   cd FakeNewsDetection
    ```
 
 2. Create a virtual environment and install dependencies:
